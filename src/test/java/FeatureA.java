@@ -1,5 +1,5 @@
 public class FeatureA {
     public static void main(String[] args) {
-        System.out.println("gvyghk");
+        System.out.println("hello world");
     }
 }
